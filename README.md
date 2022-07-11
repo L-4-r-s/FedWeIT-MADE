@@ -5,5 +5,5 @@ A Masked Autoencoder embedded into the FedWeIT Framework
 
 For further guidence on how to use this code please visit the original Repository.
 
-A Jupyter notebook to execute the code on a GPU in Google colab can be found [here]{FedWeIt_MADE.ipynb}
+A Jupyter notebook to execute the code on a GPU in Google colab can be found [here](FedWeIt_MADE.ipynb)
 Most settings can be done in the [config.py](config.py) file 
